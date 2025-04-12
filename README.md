@@ -1,4 +1,5 @@
 WGAN - Wasserstein Generative Adversarial Network with Gradient Penalty
+
 Overview
 This repository implements a Wasserstein Generative Adversarial Network (WGAN) with a gradient penalty for stable training. WGANs are a type of GAN that improves training stability and quality by using the Wasserstein distance (Earth Mover's Distance) instead of the traditional Jensen-Shannon divergence.
 
